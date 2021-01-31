@@ -1,10 +1,10 @@
 package InterestingPolygon;
 
-public class shapeArea {
+public class ShapeArea {
 
     public static void main(String[] args) {
 
-        shapeArea shape = new shapeArea();
+        ShapeArea shape = new ShapeArea();
         System.out.println(shape.polygon(5));
 
     }
